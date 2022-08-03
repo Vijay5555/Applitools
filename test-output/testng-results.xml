@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-15T16:13:17Z" name="Default suite" finished-at="2022-06-15T16:26:18Z" duration-ms="780987">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T16:13:17Z" name="Default test" finished-at="2022-06-15T16:26:18Z" duration-ms="780987">
+      <class name="com.applitools.quickstarts.TestNGDemo_parallel_solution">
+        <test-method is-config="true" signature="setBatchRunner()" started-at="2022-06-15T16:13:14Z" name="setBatchRunner" finished-at="2022-06-15T16:13:17Z" duration-ms="3299" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="methodSetUp([Ljava.lang.Object;)" started-at="2022-06-15T16:13:17Z" name="methodSetUp" finished-at="2022-06-15T16:13:39Z" duration-ms="22322" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@52a36910]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method is-config="true" signature="methodSetUp([Ljava.lang.Object;)" started-at="2022-06-15T16:13:17Z" name="methodSetUp" finished-at="2022-06-15T16:13:40Z" duration-ms="22680" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3a095ec0]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method is-config="true" signature="methodSetUp([Ljava.lang.Object;)" started-at="2022-06-15T16:13:17Z" name="methodSetUp" finished-at="2022-06-15T16:13:40Z" duration-ms="22704" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4f20a5e0]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method is-config="true" signature="methodSetUp([Ljava.lang.Object;)" started-at="2022-06-15T16:13:17Z" name="methodSetUp" finished-at="2022-06-15T16:13:40Z" duration-ms="22899" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@54da32dc]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method is-config="true" signature="methodSetUp([Ljava.lang.Object;)" started-at="2022-06-15T16:13:17Z" name="methodSetUp" finished-at="2022-06-15T16:13:40Z" duration-ms="22857" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1d782abe]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method is-config="true" signature="methodSetUp([Ljava.lang.Object;)" started-at="2022-06-15T16:13:17Z" name="methodSetUp" finished-at="2022-06-15T16:13:40Z" duration-ms="22674" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6df7988f]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method is-config="true" signature="methodSetUp([Ljava.lang.Object;)" started-at="2022-06-15T16:13:17Z" name="methodSetUp" finished-at="2022-06-15T16:13:39Z" duration-ms="22320" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@27b22f74]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method is-config="true" signature="methodSetUp([Ljava.lang.Object;)" started-at="2022-06-15T16:13:17Z" name="methodSetUp" finished-at="2022-06-15T16:13:40Z" duration-ms="23163" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@22fba58c]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method is-config="true" signature="methodSetUp([Ljava.lang.Object;)" started-at="2022-06-15T16:13:17Z" name="methodSetUp" finished-at="2022-06-15T16:13:40Z" duration-ms="22976" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7e8a46b7]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method is-config="true" signature="methodSetUp([Ljava.lang.Object;)" started-at="2022-06-15T16:13:17Z" name="methodSetUp" finished-at="2022-06-15T16:13:40Z" duration-ms="23067" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2fe88a09]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method signature="websiteTest(java.lang.String)" started-at="2022-06-15T16:13:39Z" name="websiteTest" finished-at="2022-06-15T16:15:25Z" duration-ms="106308" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.dior.com/de_de/products/beauty-Y0212430-]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method signature="websiteTest(java.lang.String)" started-at="2022-06-15T16:13:39Z" name="websiteTest" finished-at="2022-06-15T16:14:58Z" duration-ms="78903" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.dior.com/de_de/products/beauty-Y4000365-]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method signature="websiteTest(java.lang.String)" started-at="2022-06-15T16:13:40Z" name="websiteTest" finished-at="2022-06-15T16:16:02Z" duration-ms="142182" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.dior.com/de_de/products/beauty-Y0142000-]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method signature="websiteTest(java.lang.String)" started-at="2022-06-15T16:13:40Z" name="websiteTest" finished-at="2022-06-15T16:14:36Z" duration-ms="56265" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.dior.com/de_de/products/beauty-Y9600732-]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method signature="websiteTest(java.lang.String)" started-at="2022-06-15T16:13:40Z" name="websiteTest" finished-at="2022-06-15T16:15:07Z" duration-ms="87187" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.dior.com/de_de/products/beauty-Y1996561-]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method signature="websiteTest(java.lang.String)" started-at="2022-06-15T16:13:40Z" name="websiteTest" finished-at="2022-06-15T16:14:35Z" duration-ms="55108" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.dior.com/de_de/products/beauty-Y9600738-]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method signature="websiteTest(java.lang.String)" started-at="2022-06-15T16:13:40Z" name="websiteTest" finished-at="2022-06-15T16:15:32Z" duration-ms="111796" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.dior.com/de_de/products/beauty-Y0028320-]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method signature="websiteTest(java.lang.String)" started-at="2022-06-15T16:13:40Z" name="websiteTest" finished-at="2022-06-15T16:14:38Z" duration-ms="58514" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.dior.com/de_de/products/beauty-Y4000364-]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method signature="websiteTest(java.lang.String)" started-at="2022-06-15T16:13:40Z" name="websiteTest" finished-at="2022-06-15T16:15:37Z" duration-ms="116831" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.dior.com/de_de/products/beauty-Y0305737-]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method signature="websiteTest(java.lang.String)" started-at="2022-06-15T16:13:40Z" name="websiteTest" finished-at="2022-06-15T16:26:17Z" duration-ms="756779" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.dior.com/de_de/products/beauty-Y9600500-]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method is-config="true" signature="tearDown()" started-at="2022-06-15T16:14:35Z" name="tearDown" finished-at="2022-06-15T16:14:35Z" duration-ms="117" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="tearDown()" started-at="2022-06-15T16:14:36Z" name="tearDown" finished-at="2022-06-15T16:14:36Z" duration-ms="111" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="tearDown()" started-at="2022-06-15T16:14:38Z" name="tearDown" finished-at="2022-06-15T16:14:38Z" duration-ms="121" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="tearDown()" started-at="2022-06-15T16:14:58Z" name="tearDown" finished-at="2022-06-15T16:14:58Z" duration-ms="120" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="tearDown()" started-at="2022-06-15T16:15:07Z" name="tearDown" finished-at="2022-06-15T16:15:07Z" duration-ms="111" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="tearDown()" started-at="2022-06-15T16:15:25Z" name="tearDown" finished-at="2022-06-15T16:15:26Z" duration-ms="108" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="tearDown()" started-at="2022-06-15T16:15:32Z" name="tearDown" finished-at="2022-06-15T16:15:32Z" duration-ms="108" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="tearDown()" started-at="2022-06-15T16:15:37Z" name="tearDown" finished-at="2022-06-15T16:15:37Z" duration-ms="110" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="tearDown()" started-at="2022-06-15T16:16:02Z" name="tearDown" finished-at="2022-06-15T16:16:02Z" duration-ms="109" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="tearDown()" started-at="2022-06-15T16:26:17Z" name="tearDown" finished-at="2022-06-15T16:26:17Z" duration-ms="111" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="finish()" started-at="2022-06-15T16:26:18Z" name="finish" finished-at="2022-06-15T16:26:21Z" duration-ms="2891" status="PASS">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

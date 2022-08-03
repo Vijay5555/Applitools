@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Levs-MacBook-Pro.local" failures="0" tests="10" name="com.applitools.quickstarts.TestNGDemo_parallel_solution" time="780.987" errors="0" timestamp="15 Jun 2022 13:26:18 GMT">
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="55.108"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="56.265"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="58.514"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="78.903"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="87.187"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="106.308"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="111.796"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="116.831"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="142.182"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="756.779"/>
+</testsuite>

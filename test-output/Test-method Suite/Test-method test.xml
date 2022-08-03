@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Levs-MacBook-Pro.local" failures="0" tests="30" name="com.applitools.quickstarts.TestNGDemo_parallel_solution" time="890.444" errors="0" timestamp="12 May 2022 09:43:19 GMT">
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="210.784"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="209.94"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="211.221"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="214.497"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="214.702"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="216.779"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="242.013"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="249.423"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="253.957"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="261.394"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="152.225"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="162.53"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="177.871"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="213.675"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="174.684"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="242.961"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="256.673"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="257.081"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="283.044"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="196.959"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="138.553"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="160.003"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="190.492"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="142.688"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="133.79"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="380.557"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="100.79"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="80.174"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="101.555"/>
+  <testcase classname="com.applitools.quickstarts.TestNGDemo_parallel_solution" name="websiteTest" time="455.226"/>
+</testsuite>

@@ -1,1 +1,1 @@
-# Applitools
+# URL2Mock-tester
