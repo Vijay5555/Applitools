@@ -31,7 +31,7 @@ public class URL2Mock_Tester {
 		TestResultsSummary allTestResults;
 		batchInfo = new BatchInfo("Test");
 
-		apiKey = "mLthewPXtXy5Uln25n2jiNaRrxY5p9BTKrmiB872qu0110";
+		apiKey = "";
 
 		config = new Configuration();
 
